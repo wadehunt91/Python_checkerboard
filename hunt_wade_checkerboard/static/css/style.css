@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.box1{
+    height: 50px;
+    width: 50px;
+}
+.box2{
+    height: 50px;
+    width: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
